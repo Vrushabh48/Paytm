@@ -17,6 +17,5 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "@repo/eslint-config": "file:"
   }
 }

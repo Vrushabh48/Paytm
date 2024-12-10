@@ -1,5 +1,5 @@
 {
-  "name": "week-18",
+  "name": "paytm",
   "private": true,
   "scripts": {
     "build": "turbo build",
@@ -11,7 +11,7 @@
     "@repo/eslint-config": "*",
     "@repo/typescript-config": "*",
     "prettier": "^3.2.5",
-    "turbo": "latest"
+    "turbo": "^2.3.3"
   },
   "engines": {
     "node": ">=18"
@@ -22,6 +22,6 @@
     "packages/*"
   ],
   "dependencies": {
-    "week-18": "file:"
+    "paytm": "file:"
   }
 }
